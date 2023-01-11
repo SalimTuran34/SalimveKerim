@@ -1,0 +1,158 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin: auto;
+    width: 800px;
+    height: 1200px;
+}
+.top{
+    width: 800px;
+    height: 80px;
+    background-color: rgb(143, 52, 52);
+    text-align: center;
+}
+.maclar{
+    margin-top: 50px;
+}
+.sol{
+    float: left;
+    color: white;
+    line-height: 80px;
+    padding-left: 20px;
+}
+.orta{
+}
+.orta a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    line-height: 80px;
+}
+.ust{
+    width: 800px;
+    height: 80px;
+}
+.ks{
+    border: 1px solid black;
+    width: 400px;
+    float: left;
+}
+.ks span{
+    line-height: 80px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.tarih{
+    margin-right: 20px;
+    display: inline-block;
+    float: right;
+}
+.gh{
+    border: 1px solid black;
+    width: 396px;
+    float: right;
+}
+.gh span{
+    line-height: 80px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.orta{
+    width: 800px;
+    height: 80px;
+}
+.ag{
+    border: 1px solid black;
+    width: 400px;
+    float: left;
+}
+.ag span{
+    line-height: 80px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.aa{
+    border: 1px solid black;
+    width: 396px;
+    float: right;
+}
+.aa span{
+    line-height: 80px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.orta2{
+    width: 800px;
+    height: 80px;
+}
+.kb{
+    border: 1px solid black;
+    width: 400px;
+    float: left;
+}
+.kb span{
+    line-height: 80px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.tb{
+    border: 1px solid black;
+    width: 396px;
+    float: right;
+}
+.tb span{
+    line-height: 80px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+
+.orta3{
+    width: 800px;
+    height: 80px;
+}
+.ui{
+    border: 1px solid black;
+    width: 400px;
+    float: left;
+}
+.ui span{
+    line-height: 80px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.kk{
+    border: 1px solid black;
+    width: 396px;
+    float: right;
+}
+.kk span{
+    line-height: 80px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+
+.alt{
+    width: 800px;
+    height: 80px;
+    margin-left: 200px;
+}
+.gf{
+    border: 1px solid black;
+    width: 400px;
+    float: left;
+}
+.gf span{
+    line-height: 80px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.index{
+    border-bottom: 1px solid white;
+}
+

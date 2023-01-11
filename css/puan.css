@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin: auto;
+    width: 800px;
+    height: 1200px;
+}
+.top{
+    width: 800px;
+    height: 80px;
+    background-color: rgb(143, 52, 52);
+}
+.sol{
+    float: left;
+    color: white;
+    line-height: 80px;
+    padding-left: 20px;
+}
+.orta{
+    text-align: center;
+}
+.orta a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    line-height: 80px;
+}
+table{
+    width: 800px;
+    text-align: center;
+    margin-top: 50px;
+}
+table td{
+    border-bottom: 1px solid lightgray;
+    border-left:1px solid  lightgray;
+    border-right:1px solid  lightgray;
+}

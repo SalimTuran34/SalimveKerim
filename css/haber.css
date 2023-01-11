@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin: auto;
+    width: 800px;
+    height: 1200px;
+}
+.top{
+    width: 800px;
+    height: 80px;
+    background-color: rgb(143, 52, 52);
+}
+.sol{
+    float: left;
+    color: white;
+    line-height: 80px;
+    padding-left: 20px;
+    margin-right: 215px;
+}
+.orta{
+    text-align: center;
+}
+.orta a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+    line-height: 80px;
+}
+.haber{
+  margin-top: 50px;
+}
+.haber1{
+    width: 800px;
+    height: 100px;
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 20px;
+    padding-left: 5px;
+}
+.haber2{
+    width: 800px;
+    height: 100px;
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 20px;
+    margin-top: 20px;
+    padding-left: 5px;
+    
+}
+.haber3{
+    width: 800px;
+    height: 100px;
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 20px;
+    margin-top: 20px;
+    padding-left: 5px;
+    
+}
+.haber4{
+    width: 800px;
+    height: 100px;
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 20px;
+    margin-top: 20px;
+    padding-left: 5px;
+    
+}
+.haber5{
+    width: 800px;
+    height: 100px;
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 20px;
+    margin-top: 20px;
+    padding-left: 5px;
+    
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    float: left;
+}
+img{
+    float: right;
+    height: 80px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    
+}
+.haber1 a:hover , .haber2 a:hover , .haber3 a:hover , .haber4 a:hover , .haber5 a:hover{
+    text-decoration: underline;
+}
